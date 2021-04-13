@@ -1,7 +1,7 @@
-#throw-pic
-## introduce
+# throw-pic
+## Introduction
 a image uploader based on [sm.ms](https://sm.ms/)
-## start
+## Start
 ```
 go build
 ```
